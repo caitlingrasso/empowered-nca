@@ -1,1 +1,1 @@
-Empowered Neural Cellular Automata
+**Empowered Neural Cellular Automata**
